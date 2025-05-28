@@ -44,6 +44,7 @@ Clone the project
 ## Screenshots
 
 ![Dashboard Screenshot](https://github.com/analystjoypaul/Adventure-work-sales-analysis-using-excel/blob/a350faf2c526e3dcd3db56e510ddbfb35b7f548c/Dashboard_page1.png)
+![Dashboard Screenshot](https://github.com/analystjoypaul/Adventure-work-sales-analysis-using-excel/blob/ea2d5173d3042a3fbab6b862622780f577c66d11/Dashboard_page2.png)
 
 
 
